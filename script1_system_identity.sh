@@ -8,8 +8,8 @@
 # =============================================================
 
 # --- Student & Software Variables ---
-STUDENT_NAME="Aaranya Rai"         # Replace with your name
-ROLL_NUMBER="24BOE10016"   # Replace with your roll number
+STUDENT_NAME="Anushka Agarwal"         # Replace with your name
+ROLL_NUMBER="24BEY10052"   # Replace with your roll number
 SOFTWARE_CHOICE="Firefox"          # Chosen open-source software
 
 # --- Gather System Information using command substitution ---
