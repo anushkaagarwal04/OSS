@@ -1,7 +1,7 @@
 #!/bin/bash
 # =============================================================
 # Script 2: FOSS Package Inspector
-# Author: [Your Name] | Roll: [Your Roll Number]
+# Author: [Anushka] | Roll: [24BEY10052]
 # Course: Open Source Software | VITyarthi
 # Description: Checks if Firefox is installed, displays version
 #              and license info, and prints a philosophy note
