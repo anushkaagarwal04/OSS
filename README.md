@@ -1,4 +1,4 @@
-# OSS Audit — 24BOE10016
+# OSS Audit — 24BEY10052
 
 > **Open Source Software Audit** | VITyarthi | OSS NGMC Course
 
@@ -8,10 +8,10 @@
 
 | Field | Details |
 |---|---|
-| **Name** | Aaranya Rai |
-| **Roll Number** | 24BOE10016 |
-| **Slot** | F11 |
-| **Date of Submission** | 29/03/2026 |
+| **Name** | ANUSHKA AGARWAL |
+| **Roll Number** | 24BEY10052 |
+| **Slot** | E11 |
+| **Date of Submission** | 31/03/2026 |
 
 ---
 
